@@ -1,0 +1,63 @@
+; Engine configuration file.
+; Godot 4.7. Most of the game is built in code; see docs/DESIGN.md.
+
+config_version=5
+
+[application]
+
+config/name="灯芯深渊 Wickdeep"
+config/description="俯视角像素风动作 Roguelite，带 DeepSeek 驱动的 AI 角色。"
+config/version="1.0.0"
+run/main_scene="res://scenes/main.tscn"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+config/icon="res://icon.png"
+boot_splash/bg_color=Color(0.0706, 0.0549, 0.0941, 1)
+boot_splash/show_image=false
+run/max_fps=0
+
+[autoload]
+
+Inputs="*res://src/autoload/inputs.gd"
+Settings="*res://src/autoload/settings.gd"
+SaveData="*res://src/autoload/save_data.gd"
+Sound="*res://src/autoload/sound.gd"
+AI="*res://src/autoload/ai_client.gd"
+Run="*res://src/autoload/run_state.gd"
+Juice="*res://src/autoload/juice.gd"
+
+[debug]
+
+gdscript/warnings/integer_division=0
+
+[display]
+
+window/size/viewport_width=640
+window/size/viewport_height=360
+window/size/window_width_override=1280
+window/size/window_height_override=720
+window/stretch/mode="viewport"
+window/stretch/aspect="keep"
+window/stretch/scale_mode="integer"
+window/vsync/vsync_mode=1
+
+[gui]
+
+common/snap_controls_to_pixels=true
+
+[input_devices]
+
+pointing/emulate_touch_from_mouse=false
+
+[physics]
+
+common/physics_ticks_per_second=60
+2d/default_gravity=0.0
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/canvas_textures/default_texture_filter=0
+2d/snap/snap_2d_transforms_to_pixel=true
+2d/snap/snap_2d_vertices_to_pixel=true
+environment/defaults/default_clear_color=Color(0.0706, 0.0549, 0.0941, 1)

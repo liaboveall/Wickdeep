@@ -1,0 +1,789 @@
+{
+ "archer": {
+  "anims": {
+   "aim": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 1
+   },
+   "walk": {
+    "fps": 5,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "archer.png",
+  "h": 16,
+  "w": 16
+ },
+ "arrow": {
+  "anims": {
+   "fly": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "arrow.png",
+  "h": 5,
+  "w": 12
+ },
+ "bat": {
+  "anims": {
+   "fly": {
+    "fps": 10,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "bat.png",
+  "h": 16,
+  "w": 16
+ },
+ "bolt": {
+  "anims": {
+   "spin": {
+    "fps": 12,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "bolt.png",
+  "h": 8,
+  "w": 8
+ },
+ "boom": {
+  "anims": {
+   "pop": {
+    "fps": 16,
+    "frames": 6,
+    "loop": false,
+    "row": 0
+   }
+  },
+  "file": "boom.png",
+  "h": 32,
+  "w": 32
+ },
+ "campfire": {
+  "anims": {
+   "burn": {
+    "fps": 8,
+    "frames": 4,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "campfire.png",
+  "h": 24,
+  "w": 24
+ },
+ "dust": {
+  "anims": {
+   "pop": {
+    "fps": 12,
+    "frames": 3,
+    "loop": false,
+    "row": 0
+   }
+  },
+  "file": "dust.png",
+  "h": 8,
+  "w": 8
+ },
+ "ember": {
+  "anims": {
+   "spin": {
+    "fps": 10,
+    "frames": 4,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "ember.png",
+  "h": 8,
+  "w": 8
+ },
+ "granny": {
+  "anims": {
+   "idle": {
+    "fps": 2,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "granny.png",
+  "h": 24,
+  "w": 20
+ },
+ "hud_flame": {
+  "anims": {
+   "empty": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 2
+   },
+   "full": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 0
+   },
+   "half": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 1
+   }
+  },
+  "file": "hud_flame.png",
+  "h": 12,
+  "w": 11
+ },
+ "icons": {
+  "anims": {
+   "big_oil": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 26
+   },
+   "calm_flame": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 17
+   },
+   "combustion": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 13
+   },
+   "ember_magnet": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 12
+   },
+   "glass_shade": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 8
+   },
+   "greedy_lamp": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 20
+   },
+   "keen_spark": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 1
+   },
+   "light_feet": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 10
+   },
+   "long_flame": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 7
+   },
+   "lucky_spark": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 15
+   },
+   "molten_core": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 24
+   },
+   "motes": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 14
+   },
+   "moth_heart": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 9
+   },
+   "oil": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 25
+   },
+   "pierce": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 3
+   },
+   "quickburn": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 2
+   },
+   "ricochet": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 4
+   },
+   "searing": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 5
+   },
+   "second_wick": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 23
+   },
+   "seeker": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 6
+   },
+   "shadow_step": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 11
+   },
+   "shatter": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 18
+   },
+   "slow_burn": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 19
+   },
+   "thick_wax": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 16
+   },
+   "twin_wick": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 0
+   },
+   "warden_bell": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 22
+   },
+   "wildfire": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 21
+   }
+  },
+  "file": "icons.png",
+  "h": 16,
+  "w": 16
+ },
+ "knight": {
+  "anims": {
+   "charge": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 2
+   },
+   "stun": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 3
+   },
+   "walk": {
+    "fps": 4,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   },
+   "windup": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 1
+   }
+  },
+  "file": "knight.png",
+  "h": 20,
+  "w": 20
+ },
+ "lantern": {
+  "anims": {
+   "burn": {
+    "fps": 6,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "lantern.png",
+  "h": 9,
+  "w": 9
+ },
+ "matron": {
+  "anims": {
+   "crouch": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 1
+   },
+   "idle": {
+    "fps": 3,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   },
+   "jump": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 2
+   }
+  },
+  "file": "matron.png",
+  "h": 32,
+  "w": 40
+ },
+ "oil": {
+  "anims": {
+   "bob": {
+    "fps": 4,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "oil.png",
+  "h": 10,
+  "w": 10
+ },
+ "orb_blue": {
+  "anims": {
+   "spin": {
+    "fps": 12,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "orb_blue.png",
+  "h": 8,
+  "w": 8
+ },
+ "orb_green": {
+  "anims": {
+   "spin": {
+    "fps": 12,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "orb_green.png",
+  "h": 8,
+  "w": 8
+ },
+ "orb_red": {
+  "anims": {
+   "spin": {
+    "fps": 12,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "orb_red.png",
+  "h": 8,
+  "w": 8
+ },
+ "orb_violet": {
+  "anims": {
+   "spin": {
+    "fps": 12,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "orb_violet.png",
+  "h": 8,
+  "w": 8
+ },
+ "player": {
+  "anims": {
+   "dash": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 3
+   },
+   "hurt": {
+    "fps": 1,
+    "frames": 1,
+    "loop": false,
+    "row": 2
+   },
+   "idle": {
+    "fps": 3,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   },
+   "run": {
+    "fps": 10,
+    "frames": 4,
+    "loop": true,
+    "row": 1
+   }
+  },
+  "file": "player.png",
+  "h": 16,
+  "w": 16
+ },
+ "pod": {
+  "anims": {
+   "idle": {
+    "fps": 2,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   },
+   "open": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 1
+   }
+  },
+  "file": "pod.png",
+  "h": 16,
+  "w": 16
+ },
+ "portraits": {
+  "anims": {
+   "granny": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 1
+   },
+   "wick": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "portraits.png",
+  "h": 40,
+  "w": 40
+ },
+ "props": {
+  "anims": {
+   "altar": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 0
+   },
+   "altar_used": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 1
+   },
+   "barrel": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 11
+   },
+   "bedroll": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 10
+   },
+   "pedestal": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 8
+   },
+   "pot": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 4
+   },
+   "pot_broken": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 5
+   },
+   "shrine": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 2
+   },
+   "shrine_out": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 3
+   },
+   "sign": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 9
+   },
+   "skulls": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 6
+   },
+   "stall": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 7
+   }
+  },
+  "file": "props.png",
+  "h": 16,
+  "w": 16
+ },
+ "puff": {
+  "anims": {
+   "pop": {
+    "fps": 14,
+    "frames": 5,
+    "loop": false,
+    "row": 0
+   }
+  },
+  "file": "puff.png",
+  "h": 16,
+  "w": 16
+ },
+ "shade": {
+  "anims": {
+   "move": {
+    "fps": 8,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "shade.png",
+  "h": 12,
+  "w": 12
+ },
+ "shard": {
+  "anims": {
+   "spin": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "shard.png",
+  "h": 6,
+  "w": 6
+ },
+ "slime": {
+  "anims": {
+   "crouch": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 1
+   },
+   "idle": {
+    "fps": 3,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   },
+   "jump": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 2
+   }
+  },
+  "file": "slime.png",
+  "h": 16,
+  "w": 16
+ },
+ "snuffer": {
+  "anims": {
+   "cast": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 1
+   },
+   "charge": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 2
+   },
+   "idle": {
+    "fps": 2,
+    "frames": 2,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "snuffer.png",
+  "h": 48,
+  "w": 48
+ },
+ "spark": {
+  "anims": {
+   "pop": {
+    "fps": 20,
+    "frames": 4,
+    "loop": false,
+    "row": 0
+   }
+  },
+  "file": "spark.png",
+  "h": 9,
+  "w": 9
+ },
+ "tiles_ash": {
+  "cols": 8,
+  "file": "tiles_ash.png",
+  "h": 16,
+  "rows": 10,
+  "w": 16
+ },
+ "tiles_camp": {
+  "cols": 8,
+  "file": "tiles_camp.png",
+  "h": 16,
+  "rows": 10,
+  "w": 16
+ },
+ "tiles_moss": {
+  "cols": 8,
+  "file": "tiles_moss.png",
+  "h": 16,
+  "rows": 10,
+  "w": 16
+ },
+ "tiles_sanctum": {
+  "cols": 8,
+  "file": "tiles_sanctum.png",
+  "h": 16,
+  "rows": 10,
+  "w": 16
+ },
+ "torch": {
+  "anims": {
+   "burn": {
+    "fps": 9,
+    "frames": 4,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "torch.png",
+  "h": 12,
+  "w": 8
+ },
+ "wax": {
+  "anims": {
+   "fall": {
+    "fps": 1,
+    "frames": 1,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "wax.png",
+  "h": 8,
+  "w": 8
+ },
+ "wick": {
+  "anims": {
+   "idle": {
+    "fps": 8,
+    "frames": 4,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "wick.png",
+  "h": 16,
+  "w": 14
+ },
+ "wisp": {
+  "anims": {
+   "cast": {
+    "fps": 10,
+    "frames": 2,
+    "loop": true,
+    "row": 1
+   },
+   "float": {
+    "fps": 8,
+    "frames": 4,
+    "loop": true,
+    "row": 0
+   }
+  },
+  "file": "wisp.png",
+  "h": 16,
+  "w": 16
+ }
+}

@@ -1,0 +1,4169 @@
+{
+	"biomes": {
+		"1": "moss",
+		"2": "moss",
+		"3": "ash",
+		"4": "ash",
+		"5": "sanctum"
+	},
+	"clamp": [
+		[
+			0.7,
+			0.0,
+			0.7
+		],
+		[
+			0.7,
+			0.5,
+			0.7
+		],
+		[
+			0.7,
+			0.69,
+			0.7
+		],
+		[
+			0.7,
+			0.9,
+			0.8
+		],
+		[
+			0.7,
+			0.95,
+			0.8
+		],
+		[
+			0.7,
+			1.0,
+			0.8
+		],
+		[
+			0.7,
+			1.04,
+			0.8
+		],
+		[
+			0.7,
+			1.1,
+			0.8
+		],
+		[
+			0.7,
+			1.5,
+			0.8
+		],
+		[
+			0.7,
+			9.0,
+			0.8
+		],
+		[
+			0.72,
+			0.0,
+			0.7
+		],
+		[
+			0.72,
+			0.5,
+			0.7
+		],
+		[
+			0.72,
+			0.69,
+			0.7
+		],
+		[
+			0.72,
+			0.9,
+			0.8200000000000001
+		],
+		[
+			0.72,
+			0.95,
+			0.8200000000000001
+		],
+		[
+			0.72,
+			1.0,
+			0.8200000000000001
+		],
+		[
+			0.72,
+			1.04,
+			0.8200000000000001
+		],
+		[
+			0.72,
+			1.1,
+			0.8200000000000001
+		],
+		[
+			0.72,
+			1.5,
+			0.8200000000000001
+		],
+		[
+			0.72,
+			9.0,
+			0.8200000000000001
+		],
+		[
+			0.85,
+			0.0,
+			0.75
+		],
+		[
+			0.85,
+			0.5,
+			0.75
+		],
+		[
+			0.85,
+			0.69,
+			0.75
+		],
+		[
+			0.85,
+			0.9,
+			0.9
+		],
+		[
+			0.85,
+			0.95,
+			0.9500000000000001
+		],
+		[
+			0.85,
+			1.0,
+			0.9500000000000001
+		],
+		[
+			0.85,
+			1.04,
+			0.9500000000000001
+		],
+		[
+			0.85,
+			1.1,
+			0.9500000000000001
+		],
+		[
+			0.85,
+			1.5,
+			0.9500000000000001
+		],
+		[
+			0.85,
+			9.0,
+			0.9500000000000001
+		],
+		[
+			1.0,
+			0.0,
+			0.9
+		],
+		[
+			1.0,
+			0.5,
+			0.9
+		],
+		[
+			1.0,
+			0.69,
+			0.9
+		],
+		[
+			1.0,
+			0.9,
+			0.9
+		],
+		[
+			1.0,
+			0.95,
+			0.9500000000000001
+		],
+		[
+			1.0,
+			1.0,
+			1.0
+		],
+		[
+			1.0,
+			1.04,
+			1.04
+		],
+		[
+			1.0,
+			1.1,
+			1.1
+		],
+		[
+			1.0,
+			1.5,
+			1.1
+		],
+		[
+			1.0,
+			9.0,
+			1.1
+		],
+		[
+			1.07,
+			0.0,
+			0.97
+		],
+		[
+			1.07,
+			0.5,
+			0.97
+		],
+		[
+			1.07,
+			0.69,
+			0.97
+		],
+		[
+			1.07,
+			0.9,
+			0.97
+		],
+		[
+			1.07,
+			0.95,
+			0.97
+		],
+		[
+			1.07,
+			1.0,
+			1.0
+		],
+		[
+			1.07,
+			1.04,
+			1.04
+		],
+		[
+			1.07,
+			1.1,
+			1.1
+		],
+		[
+			1.07,
+			1.5,
+			1.17
+		],
+		[
+			1.07,
+			9.0,
+			1.17
+		],
+		[
+			1.28,
+			0.0,
+			1.18
+		],
+		[
+			1.28,
+			0.5,
+			1.18
+		],
+		[
+			1.28,
+			0.69,
+			1.18
+		],
+		[
+			1.28,
+			0.9,
+			1.18
+		],
+		[
+			1.28,
+			0.95,
+			1.18
+		],
+		[
+			1.28,
+			1.0,
+			1.18
+		],
+		[
+			1.28,
+			1.04,
+			1.18
+		],
+		[
+			1.28,
+			1.1,
+			1.18
+		],
+		[
+			1.28,
+			1.5,
+			1.3
+		],
+		[
+			1.28,
+			9.0,
+			1.3
+		],
+		[
+			1.3,
+			0.0,
+			1.2
+		],
+		[
+			1.3,
+			0.5,
+			1.2
+		],
+		[
+			1.3,
+			0.69,
+			1.2
+		],
+		[
+			1.3,
+			0.9,
+			1.2
+		],
+		[
+			1.3,
+			0.95,
+			1.2
+		],
+		[
+			1.3,
+			1.0,
+			1.2
+		],
+		[
+			1.3,
+			1.04,
+			1.2
+		],
+		[
+			1.3,
+			1.1,
+			1.2
+		],
+		[
+			1.3,
+			1.5,
+			1.3
+		],
+		[
+			1.3,
+			9.0,
+			1.3
+		]
+	],
+	"clean": [
+		[
+			"  你好\n世界  ",
+			"你好 世界"
+		],
+		[
+			"短句。",
+			"短句。"
+		],
+		[
+			"长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长",
+			"长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长……"
+		],
+		[
+			"a\nb\nc",
+			"a b c"
+		]
+	],
+	"dungeon": {
+		"d1_s0": "8e838c4dbc77b0615e57bb5db0c78d2c2887fa61b7914009c8badc452bc33ca9",
+		"d1_s1": "94712391a400fbc48fe29cb821e1982eba8d2328c80166a360483cc4992d80e9",
+		"d1_s10": "6df307522e8665ea32aadc5985bcd976ae5549b0ea6b4602982d43f239485070",
+		"d1_s11": "214e7671c621c006af682e9e3885767dd17a0fa4b312f8b47576c823b6c8b8ea",
+		"d1_s12": "e66ca03337ed3fca4186cee14185ec7ef3ea926a093891185aaefdee47dfa90c",
+		"d1_s13": "20097e5c91a7d8899c3f13e5dcc0f22a7ab4fcf1a38c48eb6e226f418ab46cd7",
+		"d1_s14": "32c68b66be0ebd09c77284f6aab33f8737ebf5c37f189ec83378cbedf213dd39",
+		"d1_s15": "84e562a3ea5462cf51bf0d92a0c974dd3cdd63c3761ddda24478330c3d96415b",
+		"d1_s16": "b5ab44ce764f2335dfb532a8a8361bebaecc218d38d9535b55657ec14cf771b7",
+		"d1_s17": "0d60063fce0249ce3e1965abc0aca88e37cd8469da25b47e3c6f4804ed3373c2",
+		"d1_s18": "2156a215bdb57e61c1f8e40ee1dfa51e632738389f69a48c876549f1cc6e846e",
+		"d1_s19": "0b9c2f7ba447c5dcdcc7128dcb9c63679c934f7dacaaa301e541ee6274fbe00e",
+		"d1_s2": "4843589d689099169dc954ab6cd28a849bb4ff968ee231d1d88dc7d4d58a25cf",
+		"d1_s20": "10041d6b92e521e729e668104e49d06d9e23fb054b4b3a8fc9f7d13c7a9c7f05",
+		"d1_s21": "72fcc895f0f89ed24eaf8f80233fc24875acbfce29112629a491f9d65d315bb1",
+		"d1_s22": "58e81e979109198a9d75e3f86fe03fb64619f4fd827816f55220e5f7d0437600",
+		"d1_s23": "30007053ea11ffb3b58b14d7bf9e67c3721b541e7c4c3232427cfa8fde4618ca",
+		"d1_s24": "2fa943aaf105e77b82984772e9fb164e8b2d66d500c24acf391e1f6c5110bf19",
+		"d1_s25": "a8e006ec082f8e8f70b8cc689231f51257ea3e3e069d5b9c3f00705a5e08c3b8",
+		"d1_s26": "ae0d9f6da8c8971f8c5b70ffe6058faac5ba47cae51434bf68b7991a9a0f6004",
+		"d1_s27": "7bab04f119037963dd61b1f358a30262da258a662ed729cc7468734ee58fd53e",
+		"d1_s28": "483bfa1f80310d72676c7b3eb3b037a1a9eab55d5e03e326b175358a583e7f34",
+		"d1_s29": "61b65724cae2a1cacf60a144b2913c03b19b52a03277b394fa8b0dda23a3fda2",
+		"d1_s3": "c040964e64e68ab37365e401d8500aae0845ecd7c2173208073d48d70470eb91",
+		"d1_s30": "45fc10e6f19e2cf05e0b4b67ab2250a046493deb51bfdb658f1a063f3423a3ed",
+		"d1_s31": "a2c9d761e888fb55e1163d5eb9e4c766b99d16e368d79c3db742ac566f261f22",
+		"d1_s32": "5ec797b53614ba062f4979689888ce35e6ca5dcd1cafed4f69a08feaf3a5efae",
+		"d1_s33": "f11e9b951f6b5a86300f5ffb9245c546f5e3e93c66dd230cfce62f6cdc1db4a6",
+		"d1_s34": "ab02010e7ffae10dbbf59994c9977f27c7dba784a59fefcc253319753bdd28fa",
+		"d1_s35": "61b259c9e99b5d8dbb8266824026e845c5ea7915f9462775eced072f2359de07",
+		"d1_s36": "42258f18d5fa6e71bfd2da827c312d24fa89636a0ddcf45f0b3fcc2a0a55ea7b",
+		"d1_s37": "3f6d673c59dbeb76f869adfaa5b1488f38d561a5311014075050f19dbc039afb",
+		"d1_s38": "b0db3ba230c9efe76cb876dd9d0da930b9db308c8c5a6903f35038d84b433fea",
+		"d1_s39": "ed2e397697c2cdbd37b52c39e192548d8610f31024addde2d5083700d2c591a7",
+		"d1_s4": "3de745a3c8decf7ed35f537d26533ed812b89bb589988348724b7d0b93d62aff",
+		"d1_s5": "9f44d413ab86d19706b9ae67679e8862bc7276c5aed5092887e51fc2f24ccf4d",
+		"d1_s6": "e8300a3951551f534652b92e959028676bc4373e36f94d524695e9cd1cfd5e02",
+		"d1_s7": "64b1bad333271fed7e13cd651e7103ceabd37c0aea2b7761f48c85f2905b0601",
+		"d1_s8": "3633987453ff048a880250ff7d993d0d8d0e023b0674fc4bb6f0abb64b43f49b",
+		"d1_s9": "2d1da3d624f83a840a864c0aea4095df240a44f30bcb292fbd40c625060c838f",
+		"d2_s0": "14e9890d6061f6b780254890d96cc8501d8a3f28d76c229452621c5bbbdfb173",
+		"d2_s1": "4266354f559cd38a059aa64e28a4bf7760e4c976f6db594e4cf5d4c3ffe2b75d",
+		"d2_s10": "a5ae5d965f16a53b84271803abaf42b48c757cec2f5a1cca5389d7958c24b332",
+		"d2_s11": "6c6a517c7dfebf85f6325920d158a3d8ad02c2feb4a68a4542dae223a20aa177",
+		"d2_s12": "136a5419e3f7a4a9d992b31a1802277ff74b934d58cc63b1c9813a746977d8f2",
+		"d2_s13": "47b1aff3ff9fa7e2be80e284a4564d87304d4b7da1de4fd7c8bba7f0f06084ce",
+		"d2_s14": "f07c4222b2a65340498b9cd06ff31900dbb62ccf2ba91cee8b48575751d6eb7c",
+		"d2_s15": "afa76659fd82d106a4e774a5b14c79ed729cba13d927faeb757d5e8be989f5d1",
+		"d2_s16": "aa777d1a08ca09a370efe859cdfb5ec2acf8fcba73c2d027b9c420366080baaf",
+		"d2_s17": "d5657bf71d505718be4256e4d481bc73e08ffd7ea0a48d4b3c69ba766faea71c",
+		"d2_s18": "8f45231d78422903c4262545dbabc0e5c60387734ace68cc53451fb08970904c",
+		"d2_s19": "6c46da5982dc63e5d9f2784b060bfe15bab9af5eb7efa9d5e62943df7def427b",
+		"d2_s2": "5b0ca3d4719f599b81a52c72a908fc6418573738dde75683a2f6498ec8656cc6",
+		"d2_s20": "d9ba656cd98c9c577808d5cfff2e0bf27b4723a105430e8158331c35c54d7abb",
+		"d2_s21": "4d20660340199aaca3382516a9a5fb4be7663f52b6650454d9ef3243b9262519",
+		"d2_s22": "9f30ded6ba6661f4ff076b43f9cb55dcc6c053fd9d6b26a5cda12d5ef3c2916a",
+		"d2_s23": "09d5ebb2e6f8fc9632bf8362cc5090f1129ad87c7d4e02ea18c955dbdf894b56",
+		"d2_s24": "19009fb3ccd4b4d79fa1fe74d448d79fb03e034e4bc08402a163f38775759047",
+		"d2_s25": "910cbfc90834a3ec95fe5585ed7b2756f50700c88837b10d22beef9207db1957",
+		"d2_s26": "c83ea3d5f750541c59cedc6643ac433f628716951731638608eef3fb68fdf877",
+		"d2_s27": "6fe606498f146e2e64e4ed5c9a534d591709a138b47ae5cb23f0c7765dacfcdd",
+		"d2_s28": "6b4e6ec3403f90575b8adaf9b7fa7ccc18ab78c08abd293f4dfc60fdb6644fd5",
+		"d2_s29": "02a888acc75463226ec10b6d178355e74f7416cb25a14bc42efae4d7989c84e2",
+		"d2_s3": "7c2332a3e27ef79f36b68bb08ec94c79b972422aced287cb4bb414b0fccc64ba",
+		"d2_s30": "70702cbf3b71ee8c0da0a92b9d0014c2ab0eb63220cf554e6223d2f4919607e5",
+		"d2_s31": "391836a00a4ada34affae69020010bf2d8892c9e68adcacc080b26b8d66f494c",
+		"d2_s32": "dfdd814b0adfdb2a0f7f2ada0058a1a6c0c0d6e1e9993ed06ade53a8016ca7b3",
+		"d2_s33": "91aaffe14f78b6abfaa04100756c635846424b23a400062976f4614391237262",
+		"d2_s34": "5e8eef068cbd269d86d83afe052e08f94b786bd1e474208d42eac17f0987d487",
+		"d2_s35": "35c3edabb4cb994c451fc27eda8a29e72387b5a64fabc44873566f5b463555b4",
+		"d2_s36": "b15d919581bd1d536ab35f8bb3fa3f5001ed407a4f809b860989b311dd836e9d",
+		"d2_s37": "22a3564ca844308c3e8b0634f10197ec5468862e5aff9dd0517907c9b3e64783",
+		"d2_s38": "108e4e55b32bc66fcbfa48155b7cc88f2347469a46cef5da7c92b766a1d2d41b",
+		"d2_s39": "87c3beaa400d06fc2daa332ce76888c6629f9042f81465f91b35dc720fe6be75",
+		"d2_s4": "aba7808395431c5f88fc2f5d876220b926a32fb93cfeed580e77b9bb5af523fe",
+		"d2_s5": "ca11cf312fa7f550c5fe4ac7965177f647b893853d90ab92cad86fed9f740eb8",
+		"d2_s6": "2c4a9d63d8f75e5b5b16e85558015103d949da01b7d2430f86afd3e10cddb585",
+		"d2_s7": "c3df6aa142804a9d06c934d712b639c582463d49f583cad509c974f4ca695b0c",
+		"d2_s8": "66b58ba443f36b8deeb7ef60564523b4e37dad38f0805b1c4e43a3a16088f95c",
+		"d2_s9": "ae11e9fc644b702126192fdf09a4cb978aa73125892d6315d152951fc54d3edb",
+		"d3_s0": "c4446886601367e44d4f2217677998f6868b37e08df0728b9e7b0a1d51d7ebfb",
+		"d3_s1": "27d21810a45dcb903ed7979e61b44c5630154636c531c6d5aae5f2e0996b0b17",
+		"d3_s10": "350ac85a0f7abd4a6d9961920aa9aae909b642b74d5e7749fc491521a1fedbe1",
+		"d3_s11": "a031c474fd42c1547bbdecb43710b05691988eec4b1ed7dd873179882763b478",
+		"d3_s12": "3b81d407c1f929c4bd1a1cabe70614c7e6092412e1c89a2cd7fb5d6fe2d0c2e2",
+		"d3_s13": "64662eeb9f5d9677408493cccc4bf2da062d87ea2b7433018e688f35b0a9689e",
+		"d3_s14": "1d4ed9c389c505f67220bab4236dba5a5f51d7acb24b7f9686bf7b6271de070a",
+		"d3_s15": "8379ce49c05305030999e57aee25ea1407baf866b7d2d44d55f0f8dc79c006c3",
+		"d3_s16": "7722cab4df6298de7e41b1714647a1dc7e14d7b687c81507c5a6dc1780b596a4",
+		"d3_s17": "80831bf8619d1abcc504ceba810893a62ab99b7840b20a125ed954b390278765",
+		"d3_s18": "a56d618ef2c1a7e432d8769f18f5b3833caa1c41eaa3c2eaec5b5d56a38eb0ee",
+		"d3_s19": "497f54c1f79b43b8f95fb162a2057ca701f390c208c1897cc2fc3471fe80d78c",
+		"d3_s2": "5daf7dc9ed35e42ca7049eeec0e2e96a8e74629e34f14a2021439d95c46fa9c5",
+		"d3_s20": "7e9072a823217e1a1537c87e46c4bd015e6458186574ecc2a87f9cd1e1fcb39e",
+		"d3_s21": "3e9d9b48786a585a50fa944bec6468a92120b86a59c1df4e208fa7416cd8ce31",
+		"d3_s22": "c1fdd6c4154c2e83e916288ca567a822256d1616d9185dde93e5ab30296754cf",
+		"d3_s23": "fd4f93209b0d2974aea65cacd52287c88361998ff7825fb30f6aca1167005a9f",
+		"d3_s24": "1123cac7badc7b7da7d509abc25b09fb73b87f555b7ffaed40733fa193aac229",
+		"d3_s25": "83a0f9093dc6d5f1a6dcd845c37e903eb69b96405164e5d1e1f7ef94971f3339",
+		"d3_s26": "a1195b551e5d8ec95373f9ac0dc54976d180a2cfba9c0ad65947539338700289",
+		"d3_s27": "d5997f53c6c8a044543d0739998d182f1c9265c60d8acf0ceb38798372cb0700",
+		"d3_s28": "d93ba298e7e6f9f94d4479c212c37530eaf154932993a0630343750658993c21",
+		"d3_s29": "fdda80a591ed5d6569fbc33858900a07adc6627e51583e5a2186a81f7b3529d7",
+		"d3_s3": "1b81a821e8c0be21fac73645fbccf02e30ea49ce9773a0d15274a1f707f582da",
+		"d3_s30": "27b9448d8e42982deae911d0c3c4be7d43eaa8d7e7c5705ba889040a91011457",
+		"d3_s31": "adfb28c17ff58c6f34318843ee01ab847f55221400979ded850f0e37563c51f0",
+		"d3_s32": "cf1ea3731af674aa611ab99bd8cd2fb4c3e791723d4cfccb683939b861524253",
+		"d3_s33": "575223290b1142098715353d9bfd055d097ea41859ce429ab6028a67a0d5765c",
+		"d3_s34": "10672870732b06a278e83a5a433f33f2c81096cf5cf18220e20bb6f2bbf86391",
+		"d3_s35": "ca7480f6ff2a9af239d27f95aab773b34b2375f165debba7ecb83345a18dab91",
+		"d3_s36": "04f5cb75212efbf3ff75e1b149229496bb2875bde6212bfe530db085d5844b25",
+		"d3_s37": "06d0104d799d837d8265cb30d8236cb24f3448fa5d3d0ddecb041e621e84a16a",
+		"d3_s38": "5993ff125babf01addbb0cf30bb24c59dbc583c81b84ee4a20a3c6bb2dc5bb4a",
+		"d3_s39": "14e4c5991c344680ca6c14adfcfc00e97eb444900b103b4fc27353e65ec9641b",
+		"d3_s4": "faff9f70eb1e1f1de9516e29abc696031c3baddc709a6d8442d491e4a8d760bc",
+		"d3_s5": "20fd15dde57b275c48b1e7f2f0a08b9313caa77dab68295f3730859d1680a18b",
+		"d3_s6": "a673f65262186e420d551bab06fe674de8ddd7912d27a88d0f0fae47902ba7c0",
+		"d3_s7": "5160b4bae7372bf357eeadddd019a42a7abc1a8954cb86e1c83e503fce0f8fb1",
+		"d3_s8": "29121fad098b1b550c2d6cf1f4fb8c077a581e1f84dafa6c565595645aa9b595",
+		"d3_s9": "090f3d63763c6c53d1908adec4fd82d2170531764393d8709fd1a7806efab2e7",
+		"d4_s0": "2d9e692d1a42bc6e95ec19bf919c2fb40a03acf7090f2501c461ca6af829df82",
+		"d4_s1": "094583c71d12da82e469e19cae23067bf929be7d215b0b76ba2f263ea8b0f9de",
+		"d4_s10": "dd5bca887a175ed2c31187f99828a6f897d1659b82cfffb1913ebe39da110ecb",
+		"d4_s11": "dd74d4e56bfcd890ced1428c643f6eba6b49297ecda24b6ed82d6c8bafb2e6ce",
+		"d4_s12": "ff24b83a2f74e8b3a64494689ddbd619b1baac2adae0ec52eda96398bd9c9d95",
+		"d4_s13": "3d3ee4ab11b0c1e264c42d3fa84705850a51ea873fec44d2285d1cc1168fa62b",
+		"d4_s14": "b8b28e8b766bc66fbc352da2ef7e9030efe6611bd6337ada5640e78b9701a05d",
+		"d4_s15": "6c32e3c637f7d7569716b1b89632312229e5c75f17ddc1f8e81cbe54661af959",
+		"d4_s16": "a8ed91749dbcbf228726be9f1d387cf891291509bdff8131ec3933794f79aacf",
+		"d4_s17": "b88fd7cfb439c9b0b349591db3623f2505814edede82ca01c7c38640de2d9640",
+		"d4_s18": "7b7d26d0c0121f5805b98cd616123c57af6863e59f5dd11d105c30ff3f855ce2",
+		"d4_s19": "b31284545f47763069fa00a4a06c5fffd1a381df34e68d48fdc54e2469611031",
+		"d4_s2": "6e06b93770fec5d5b5fb4b3326e411388e3ad6606923bb36c8b66d18057123be",
+		"d4_s20": "5baff56e4efdef84ea68eb59d8096a7386338b217390d1bbba0e61c53a290dff",
+		"d4_s21": "4e342955c724dfafb263e38288c4c9eedffa400eaa392280112d293bdaf53bbd",
+		"d4_s22": "ef185b605769d637d240be5721265ae5f82bb39f187dab212a5abb84b07b7b21",
+		"d4_s23": "575dbbcb23c35bb49023f43bf8dd5d5c77d14b0e751739ab76ca6f4ceb346f95",
+		"d4_s24": "05028be61c5d6f690bc83b8cdd49d10866763f9b7db3c29c2ce91e9ac7e2b1ad",
+		"d4_s25": "60e3f39736d34161b831d9baf8ca3b1f0637e265dbb30bc58c077d71167e98e6",
+		"d4_s26": "e1b865510943634657151a9d6cfa71e86e9d3ddaf0bd4786e96165e0af36177d",
+		"d4_s27": "884b15d130c229ae8bcb20410a7db6b77384044628f9e4acdc5c6659ca3b826f",
+		"d4_s28": "bd89a65928907d82fe5a046e3f9b184da9300aac89ce8242649ab744e33be028",
+		"d4_s29": "8f513827c013f3262d7ca6dba2424bd0699e94bb851d4f6848c25ac33f72973f",
+		"d4_s3": "d2d1cb7992e25ed0a37108bee3d7427611b96eb5f0c533cb4c25287e97869d80",
+		"d4_s30": "aff8e231114294490119c44f2ca8c0e72bdfd2437ba4b726a7c7407375176536",
+		"d4_s31": "f9de27f9b6b25c031162d2798900e651f4949aaaae431230465214e10d8a4646",
+		"d4_s32": "9732cc0594b68d1cf6b2c96d65257f8ac6886f65275d40685dec4c4640a3eea6",
+		"d4_s33": "3d9f664186d6facfa0ba2d11f7fd4fc25fd5b90b6528b30c9bdad15b076928dd",
+		"d4_s34": "4e54250a58c69eb1f04606e084f01dc6beef0dc37aaff7c7fff265808acaca08",
+		"d4_s35": "f55f5b9600a708eb622566ea1e8d26a6c05df3de05f0d4cd67f37db1df7f4a36",
+		"d4_s36": "7cba29ba3550c5b0df80a9fbedcd74fa0342b854fd3ff66e1a62521c6d4fb130",
+		"d4_s37": "1afb9eee1a11deef70658ce52b1ef8b9772e5f71caa4f8164f63a1142908716f",
+		"d4_s38": "4b96d0bc138f9e2657e54f53324427bbd0777cfc0e2df0ea3f31aa451b852045",
+		"d4_s39": "dc6782a4dcbeab0895dd8270e6e78631af029522f4fd61c614e9b2c7603430c6",
+		"d4_s4": "b783ad1d5ec732a02f6a824622b87621aebb4b9c1dcbd8d68e178c650b5a22a3",
+		"d4_s5": "e949579c460cdd94427d765d0c87ce51535c2ab13005ed67ecec2145bffbe55d",
+		"d4_s6": "d01c7f0843e05b99354a8c09a8e2304ed6548bb99abc14576be4d721f5ed2bff",
+		"d4_s7": "b7457e8245da05f51ff4ea1348c0449d729c6dea75094a53489be2ca0004d2a3",
+		"d4_s8": "e8393b7e823d9043b2c1de1e7ed6c7cba2f047d37a9386fe0ef5bbe908600595",
+		"d4_s9": "ea293bd2dcdae5f1944ad1779a18bc02c8afd74027aa4257cf98c2de818187f0",
+		"d5_s0": "5a7bca979f2da5e66c92e9425a76501e29be0fbe71472635b76e86f5a4cb3f57",
+		"d5_s1": "b7ba5ea17ee7beb737c11c0a87dedba33cb679f508fe2accf6d3435975dd0207",
+		"d5_s10": "d3a8eabf27bbe6ef573df960cca1ff4db3fccba3757e2f3e5872c7e5c86117dd",
+		"d5_s11": "5e60dddb67ebdd7005644b3ed13e768c264576bbd895d2074a810c3f544c5e12",
+		"d5_s12": "3c092bf73674c26da4ed343796ac7ed0de668e55f45672bcb100af5514da9238",
+		"d5_s13": "6d495850d4e4b3bad14bf218f89f93270137be278d98df4181d71170a24ca424",
+		"d5_s14": "dc57664a5cf96d740abad62ed3817c383ac2dc2c4501ad22b017c1c8e3004a65",
+		"d5_s15": "6c9c6fd404849cd99696cd4365440b18a2bbbef2912c0917c42c62ba500b7d20",
+		"d5_s16": "c8303cb56923d44dff9975bafd4b4bde3bd24cf932017d45892d50f7218ec852",
+		"d5_s17": "263e33a78616628e044f3efbbb5e0647d694aa8f865edf7f0f16896ab6ca3bd7",
+		"d5_s18": "f6d983a5370ebc447c5d87045e611b7b0143f3f5c49139024249864c682d9ea8",
+		"d5_s19": "4ded40b4b3f9cc520395ef6c79623d9a84ff786f2c19980b7a753488fdc45f0a",
+		"d5_s2": "c02cfae38137e041222de221f179f1dd9051fd48fa6d44a0d8da335a6f4aa177",
+		"d5_s20": "dc25d76e8c95f2ede300167c9ef0990e0bfa00ccdea9ab95160e5e8303a00ff1",
+		"d5_s21": "cf4f25835db3b7f1732fc115e82323939d47c38dde3e031e44510d429eadd2ae",
+		"d5_s22": "80488cc388846a754d85a7e9c10aca43302cc784ddd80a386f0d9783e6226630",
+		"d5_s23": "1c80996211ee2a2e6f2bcc182f8d003eda5a2ba3208f29b57d0a9291b9f521ef",
+		"d5_s24": "7fcff63f8ec4a0392102096da377be964b8963ce8f3a1c27d2d87b4be5a730cf",
+		"d5_s25": "1eeb091b13a2b4e00c1d933e28a46776307845bad09ed3c259fb6be8a83c288b",
+		"d5_s26": "636c7e0ed4f9e8bc5928d7fd71b03667ad96ac02b68522ae7364833511dc8f2b",
+		"d5_s27": "7aaa4e5333e71026289ae326ecfb37d9785e84a31de62d4751ab8a98b17ecf77",
+		"d5_s28": "eeba512a61c92161c9db26b12160d585397f40f0c56411de16e582028092ca72",
+		"d5_s29": "a7226459f3785169b9485b451c3dae8ab72ea88b2957c5142b8e06f1e17d50a2",
+		"d5_s3": "865640aefac64aebfe0b5e325a20bd9008ed1d5a9076f63af93c9d0702ffd203",
+		"d5_s30": "c8a0d1b4108cba9e283e981c3a006eb85917dcdde2705ff0599bf322e4546a76",
+		"d5_s31": "567e45926519112f545938ac9969bdc77832a2eb4f5e24974819552a05af78ee",
+		"d5_s32": "bae9954da38c30f644e89fc943c165054964639f733c98d267c38d9e734b7809",
+		"d5_s33": "37f35781824a9f89e68d1967653509286eb9aff49f4bf2b5e543bcd5ae87358d",
+		"d5_s34": "4f3ba3edbea7fc293cb36f51f19fa7dd67ed43b147cfa15d7ec379eb3ea032ac",
+		"d5_s35": "13dd07cc52ab722892b74455143610d965b495391ba5defd000bdfed46a4b8aa",
+		"d5_s36": "1ac10624d8bc462598876f1ea689cc5cf92eed92da186a8faeccd79e7aad8803",
+		"d5_s37": "5510e3549fcc6f71ff905ede91084046eadc78ad7c728dc5ade49c458969d5af",
+		"d5_s38": "813f24d0390f7f0e0ff1054a7d86a29e9b3c9b15184b6b0f3e85484970be8152",
+		"d5_s39": "152b6c5261fc4daf404ec346e5b4b0523844d87d5f7f35262407700dfb8be5c7",
+		"d5_s4": "5c29a1d240a17c245ca63e8682df7dd6b49a2eb88f39ae4bf095ca77c0602e1c",
+		"d5_s5": "ef37577c956dc504a8283b34913e5e39737189e950bd1f0cc43eea564be69dfc",
+		"d5_s6": "381281a526fc0b6a3708c8ac9005fa758e46c91d0140ba8de5873122aa497989",
+		"d5_s7": "2028afc0eafc17a49ce332c8a60793e89ab46dbf27b17279edac39193a849b1c",
+		"d5_s8": "f8ca440f52e9251ee634ac41e99b4f8594a9a60e4df52eda4631e5b1eaa4f2a7",
+		"d5_s9": "c88c878461abfd7fddf9d46b54a48e429859e754bde011e59f3f88e9d944dff9"
+	},
+	"prices": {
+		"d1|big_oil|0.70": 39,
+		"d1|big_oil|0.85": 47,
+		"d1|big_oil|1.00": 55,
+		"d1|big_oil|1.13": 62,
+		"d1|big_oil|1.30": 72,
+		"d1|greedy_lamp|0.70": 21,
+		"d1|greedy_lamp|0.85": 26,
+		"d1|greedy_lamp|1.00": 30,
+		"d1|greedy_lamp|1.13": 34,
+		"d1|greedy_lamp|1.30": 39,
+		"d1|keen_spark|0.70": 31,
+		"d1|keen_spark|0.85": 38,
+		"d1|keen_spark|1.00": 45,
+		"d1|keen_spark|1.13": 51,
+		"d1|keen_spark|1.30": 59,
+		"d1|oil|0.70": 18,
+		"d1|oil|0.85": 21,
+		"d1|oil|1.00": 25,
+		"d1|oil|1.13": 28,
+		"d1|oil|1.30": 33,
+		"d1|shatter|0.70": 84,
+		"d1|shatter|0.85": 102,
+		"d1|shatter|1.00": 120,
+		"d1|shatter|1.13": 136,
+		"d1|shatter|1.30": 156,
+		"d1|twin_wick|0.70": 53,
+		"d1|twin_wick|0.85": 64,
+		"d1|twin_wick|1.00": 75,
+		"d1|twin_wick|1.13": 85,
+		"d1|twin_wick|1.30": 98,
+		"d2|big_oil|0.70": 39,
+		"d2|big_oil|0.85": 47,
+		"d2|big_oil|1.00": 55,
+		"d2|big_oil|1.13": 62,
+		"d2|big_oil|1.30": 72,
+		"d2|greedy_lamp|0.70": 21,
+		"d2|greedy_lamp|0.85": 26,
+		"d2|greedy_lamp|1.00": 30,
+		"d2|greedy_lamp|1.13": 34,
+		"d2|greedy_lamp|1.30": 39,
+		"d2|keen_spark|0.70": 31,
+		"d2|keen_spark|0.85": 38,
+		"d2|keen_spark|1.00": 45,
+		"d2|keen_spark|1.13": 51,
+		"d2|keen_spark|1.30": 59,
+		"d2|oil|0.70": 18,
+		"d2|oil|0.85": 21,
+		"d2|oil|1.00": 25,
+		"d2|oil|1.13": 28,
+		"d2|oil|1.30": 33,
+		"d2|shatter|0.70": 84,
+		"d2|shatter|0.85": 102,
+		"d2|shatter|1.00": 120,
+		"d2|shatter|1.13": 136,
+		"d2|shatter|1.30": 156,
+		"d2|twin_wick|0.70": 53,
+		"d2|twin_wick|0.85": 64,
+		"d2|twin_wick|1.00": 75,
+		"d2|twin_wick|1.13": 85,
+		"d2|twin_wick|1.30": 98,
+		"d3|big_oil|0.70": 39,
+		"d3|big_oil|0.85": 47,
+		"d3|big_oil|1.00": 55,
+		"d3|big_oil|1.13": 62,
+		"d3|big_oil|1.30": 72,
+		"d3|greedy_lamp|0.70": 24,
+		"d3|greedy_lamp|0.85": 29,
+		"d3|greedy_lamp|1.00": 34,
+		"d3|greedy_lamp|1.13": 38,
+		"d3|greedy_lamp|1.30": 44,
+		"d3|keen_spark|0.70": 35,
+		"d3|keen_spark|0.85": 43,
+		"d3|keen_spark|1.00": 50,
+		"d3|keen_spark|1.13": 57,
+		"d3|keen_spark|1.30": 66,
+		"d3|oil|0.70": 18,
+		"d3|oil|0.85": 21,
+		"d3|oil|1.00": 25,
+		"d3|oil|1.13": 28,
+		"d3|oil|1.30": 33,
+		"d3|shatter|0.70": 94,
+		"d3|shatter|0.85": 114,
+		"d3|shatter|1.00": 134,
+		"d3|shatter|1.13": 152,
+		"d3|shatter|1.30": 175,
+		"d3|twin_wick|0.70": 59,
+		"d3|twin_wick|0.85": 71,
+		"d3|twin_wick|1.00": 84,
+		"d3|twin_wick|1.13": 95,
+		"d3|twin_wick|1.30": 109,
+		"d4|big_oil|0.70": 39,
+		"d4|big_oil|0.85": 47,
+		"d4|big_oil|1.00": 55,
+		"d4|big_oil|1.13": 62,
+		"d4|big_oil|1.30": 72,
+		"d4|greedy_lamp|0.70": 26,
+		"d4|greedy_lamp|0.85": 32,
+		"d4|greedy_lamp|1.00": 37,
+		"d4|greedy_lamp|1.13": 42,
+		"d4|greedy_lamp|1.30": 48,
+		"d4|keen_spark|0.70": 39,
+		"d4|keen_spark|0.85": 47,
+		"d4|keen_spark|1.00": 56,
+		"d4|keen_spark|1.13": 63,
+		"d4|keen_spark|1.30": 73,
+		"d4|oil|0.70": 18,
+		"d4|oil|0.85": 21,
+		"d4|oil|1.00": 25,
+		"d4|oil|1.13": 28,
+		"d4|oil|1.30": 33,
+		"d4|shatter|0.70": 104,
+		"d4|shatter|0.85": 126,
+		"d4|shatter|1.00": 149,
+		"d4|shatter|1.13": 168,
+		"d4|shatter|1.30": 193,
+		"d4|twin_wick|0.70": 65,
+		"d4|twin_wick|0.85": 79,
+		"d4|twin_wick|1.00": 93,
+		"d4|twin_wick|1.13": 105,
+		"d4|twin_wick|1.30": 121,
+		"d5|big_oil|0.70": 39,
+		"d5|big_oil|0.85": 47,
+		"d5|big_oil|1.00": 55,
+		"d5|big_oil|1.13": 62,
+		"d5|big_oil|1.30": 72,
+		"d5|greedy_lamp|0.70": 29,
+		"d5|greedy_lamp|0.85": 35,
+		"d5|greedy_lamp|1.00": 41,
+		"d5|greedy_lamp|1.13": 46,
+		"d5|greedy_lamp|1.30": 53,
+		"d5|keen_spark|0.70": 43,
+		"d5|keen_spark|0.85": 52,
+		"d5|keen_spark|1.00": 61,
+		"d5|keen_spark|1.13": 69,
+		"d5|keen_spark|1.30": 80,
+		"d5|oil|0.70": 18,
+		"d5|oil|0.85": 21,
+		"d5|oil|1.00": 25,
+		"d5|oil|1.13": 28,
+		"d5|oil|1.30": 33,
+		"d5|shatter|0.70": 114,
+		"d5|shatter|0.85": 139,
+		"d5|shatter|1.00": 163,
+		"d5|shatter|1.13": 184,
+		"d5|shatter|1.30": 212,
+		"d5|twin_wick|0.70": 71,
+		"d5|twin_wick|0.85": 87,
+		"d5|twin_wick|1.00": 102,
+		"d5|twin_wick|1.13": 115,
+		"d5|twin_wick|1.30": 133
+	},
+	"rolls": [
+		[
+			"calm_flame",
+			"ricochet",
+			"light_feet"
+		],
+		[
+			"searing",
+			"quickburn",
+			"long_flame"
+		],
+		[
+			"lucky_spark",
+			"slow_burn",
+			"ember_magnet"
+		],
+		[
+			"keen_spark",
+			"combustion",
+			"quickburn"
+		],
+		[
+			"searing",
+			"motes",
+			"quickburn"
+		],
+		[
+			"glass_shade",
+			"slow_burn",
+			"shadow_step"
+		],
+		[
+			"ember_magnet",
+			"light_feet",
+			"warden_bell"
+		],
+		[
+			"searing",
+			"moth_heart",
+			"thick_wax"
+		],
+		[
+			"ember_magnet",
+			"lucky_spark",
+			"second_wick"
+		],
+		[
+			"quickburn",
+			"motes",
+			"lucky_spark"
+		],
+		[
+			"lucky_spark",
+			"glass_shade",
+			"shadow_step"
+		],
+		[
+			"pierce",
+			"glass_shade",
+			"thick_wax"
+		],
+		[
+			"warden_bell",
+			"pierce",
+			"ricochet"
+		],
+		[
+			"quickburn",
+			"ember_magnet",
+			"shadow_step"
+		],
+		[
+			"quickburn",
+			"lucky_spark",
+			"searing"
+		],
+		[
+			"long_flame",
+			"shatter",
+			"glass_shade"
+		],
+		[
+			"calm_flame",
+			"searing",
+			"shadow_step"
+		],
+		[
+			"slow_burn",
+			"twin_wick",
+			"thick_wax"
+		],
+		[
+			"wildfire",
+			"slow_burn",
+			"moth_heart"
+		],
+		[
+			"light_feet",
+			"ember_magnet",
+			"moth_heart"
+		],
+		[
+			"molten_core",
+			"light_feet",
+			"slow_burn"
+		],
+		[
+			"ember_magnet",
+			"keen_spark",
+			"searing"
+		],
+		[
+			"ricochet",
+			"lucky_spark",
+			"thick_wax"
+		],
+		[
+			"keen_spark",
+			"long_flame",
+			"lucky_spark"
+		],
+		[
+			"keen_spark",
+			"shadow_step",
+			"calm_flame"
+		],
+		[
+			"searing",
+			"ricochet",
+			"ember_magnet"
+		],
+		[
+			"pierce",
+			"quickburn",
+			"long_flame"
+		],
+		[
+			"searing",
+			"ember_magnet",
+			"pierce"
+		],
+		[
+			"combustion",
+			"long_flame",
+			"thick_wax"
+		],
+		[
+			"lucky_spark",
+			"light_feet",
+			"thick_wax"
+		],
+		[
+			"quickburn",
+			"light_feet",
+			"searing"
+		],
+		[
+			"quickburn",
+			"ricochet",
+			"lucky_spark"
+		],
+		[
+			"quickburn",
+			"seeker",
+			"warden_bell"
+		],
+		[
+			"motes",
+			"lucky_spark",
+			"warden_bell"
+		],
+		[
+			"quickburn",
+			"ember_magnet",
+			"long_flame"
+		],
+		[
+			"long_flame",
+			"light_feet",
+			"motes"
+		],
+		[
+			"ember_magnet",
+			"motes",
+			"keen_spark"
+		],
+		[
+			"ricochet",
+			"moth_heart",
+			"shadow_step"
+		],
+		[
+			"quickburn",
+			"long_flame",
+			"ember_magnet"
+		],
+		[
+			"long_flame",
+			"ember_magnet",
+			"lucky_spark"
+		]
+	],
+	"stats": {
+		"ALL": {
+			"bell": true,
+			"bolt_scale": 1.6,
+			"bounces": 3,
+			"burn_chance": 0.6000000000000001,
+			"crit_chance": 0.48,
+			"damage": 32.0,
+			"dash_cooldown": 0.5249999999999999,
+			"dash_damage": 20.0,
+			"ember_mult": 2.0,
+			"enemy_bullet_speed": 0.7224999999999999,
+			"explode_on_kill": 30.0,
+			"fire_interval": 0.10893246187363835,
+			"flare_rate": 2.5,
+			"homing": 6.4,
+			"inaccuracy": 16.0,
+			"max_hp_bonus": 6,
+			"motes": 4,
+			"moth": true,
+			"move_speed": 146.00399999999996,
+			"pickup_radius": 88.0,
+			"pierce": 3,
+			"projectiles": 4,
+			"range": 603.68,
+			"revive": true,
+			"shade": true,
+			"shatter": true,
+			"shot_speed": 483.84,
+			"spread": 9.0
+		},
+		"BASE": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"calm_flame*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.5,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"calm_flame*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 2.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"calm_flame*3": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 2.5,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"combustion*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 15.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"combustion*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 30.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"ember_magnet*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.2,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 44.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"ember_magnet*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.4,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 88.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"glass_shade*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": true,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"greedy_lamp*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.6,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": -2,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"keen_spark*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 12.5,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"keen_spark*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 15.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"keen_spark*3": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 17.5,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"keen_spark*4": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 20.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"light_feet*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 110.39999999999999,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"light_feet*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 126.95999999999998,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"light_feet*3": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 146.00399999999996,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"long_flame*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 308.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 336.0,
+			"spread": 9.0
+		},
+		"long_flame*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 431.2,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 403.2,
+			"spread": 9.0
+		},
+		"long_flame*3": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 603.68,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 483.84,
+			"spread": 9.0
+		},
+		"lucky_spark*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.18,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"lucky_spark*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.32999999999999996,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"lucky_spark*3": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.48,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"molten_core*1": {
+			"bell": false,
+			"bolt_scale": 1.6,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 16.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.29411764705882354,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"motes*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 2,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"motes*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 3,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"motes*3": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 4,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"moth_heart*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": true,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"pierce*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 1,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"pierce*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 2,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"pierce*3": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 3,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"quickburn*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.20833333333333334,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"quickburn*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.17857142857142858,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"quickburn*3": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.15625,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"quickburn*4": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.1388888888888889,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"ricochet*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 1,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"ricochet*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 2,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"ricochet*3": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 3,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"searing*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.2,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"searing*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.4,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"searing*3": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.6000000000000001,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"second_wick*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": true,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"seeker*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 3.2,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"seeker*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 6.4,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"shadow_step*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.5249999999999999,
+			"dash_damage": 20.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"shatter*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": true,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"slow_burn*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 0.85,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"slow_burn*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 0.7224999999999999,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"thick_wax*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 2,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"thick_wax*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 4,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"thick_wax*3": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 6,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"thick_wax*4": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 8,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"twin_wick*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 2,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"twin_wick*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 3,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"twin_wick*3": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 4,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"warden_bell*1": {
+			"bell": true,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.25,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 2.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"wildfire*1": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.1724137931034483,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 9.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		},
+		"wildfire*2": {
+			"bell": false,
+			"bolt_scale": 1.0,
+			"bounces": 0,
+			"burn_chance": 0.0,
+			"crit_chance": 0.03,
+			"damage": 10.0,
+			"dash_cooldown": 0.75,
+			"dash_damage": 0.0,
+			"ember_mult": 1.0,
+			"enemy_bullet_speed": 1.0,
+			"explode_on_kill": 0.0,
+			"fire_interval": 0.13157894736842105,
+			"flare_rate": 1.0,
+			"homing": 0.0,
+			"inaccuracy": 16.0,
+			"max_hp_bonus": 0,
+			"motes": 0,
+			"moth": false,
+			"move_speed": 96.0,
+			"pickup_radius": 22.0,
+			"pierce": 0,
+			"projectiles": 1,
+			"range": 220.0,
+			"revive": false,
+			"shade": false,
+			"shatter": false,
+			"shot_speed": 280.0,
+			"spread": 9.0
+		}
+	},
+	"times": [
+		[
+			0.0,
+			"0:00"
+		],
+		[
+			59.9,
+			"0:59"
+		],
+		[
+			60.0,
+			"1:00"
+		],
+		[
+			734.0,
+			"12:14"
+		],
+		[
+			3601.5,
+			"60:01"
+		]
+	],
+	"titles": {
+		"1": "第一层 · 苔石回廊",
+		"2": "第二层 · 苔石回廊",
+		"3": "第三层 · 骨灰书库",
+		"4": "第四层 · 骨灰书库",
+		"5": "第五层 · 熄灭圣所"
+	},
+	"waves": [
+		[
+			[
+				"bat",
+				"bat",
+				"slime",
+				"pod",
+				"slime",
+				"slime"
+			]
+		],
+		[
+			[
+				"slime",
+				"bat",
+				"slime",
+				"archer",
+				"slime",
+				"slime"
+			]
+		],
+		[
+			[
+				"slime",
+				"slime",
+				"slime",
+				"slime",
+				"slime",
+				"bat",
+				"bat"
+			]
+		],
+		[
+			[
+				"slime",
+				"slime",
+				"slime",
+				"slime",
+				"slime",
+				"slime",
+				"slime"
+			]
+		],
+		[
+			[
+				"slime",
+				"slime",
+				"bat",
+				"slime",
+				"archer",
+				"slime"
+			]
+		],
+		[
+			[
+				"pod",
+				"slime",
+				"pod",
+				"slime",
+				"slime"
+			]
+		],
+		[
+			[
+				"slime",
+				"bat",
+				"bat",
+				"bat",
+				"slime",
+				"slime",
+				"bat"
+			]
+		],
+		[
+			[
+				"archer",
+				"bat",
+				"slime",
+				"slime",
+				"bat",
+				"bat"
+			]
+		],
+		[
+			[
+				"pod",
+				"slime",
+				"slime",
+				"bat"
+			],
+			[
+				"archer",
+				"slime"
+			]
+		],
+		[
+			[
+				"archer",
+				"bat",
+				"bat",
+				"bat"
+			],
+			[
+				"bat",
+				"slime",
+				"slime"
+			]
+		],
+		[
+			[
+				"slime",
+				"pod",
+				"slime",
+				"bat"
+			],
+			[
+				"bat",
+				"archer"
+			]
+		],
+		[
+			[
+				"pod",
+				"bat",
+				"slime",
+				"slime"
+			],
+			[
+				"slime",
+				"archer"
+			]
+		],
+		[
+			[
+				"slime",
+				"archer",
+				"bat",
+				"slime"
+			],
+			[
+				"slime",
+				"archer",
+				"slime"
+			]
+		],
+		[
+			[
+				"slime",
+				"slime",
+				"pod",
+				"slime"
+			],
+			[
+				"slime",
+				"slime",
+				"archer"
+			]
+		],
+		[
+			[
+				"slime",
+				"bat",
+				"slime",
+				"slime",
+				"slime"
+			],
+			[
+				"slime",
+				"archer",
+				"slime"
+			]
+		],
+		[
+			[
+				"bat",
+				"slime",
+				"slime",
+				"slime",
+				"slime"
+			],
+			[
+				"slime",
+				"archer",
+				"slime"
+			]
+		],
+		[
+			[
+				"bat",
+				"archer",
+				"slime",
+				"slime",
+				"slime"
+			],
+			[
+				"bat",
+				"archer",
+				"bat"
+			]
+		],
+		[
+			[
+				"slime",
+				"archer",
+				"slime",
+				"slime",
+				"slime"
+			],
+			[
+				"slime",
+				"bat",
+				"bat",
+				"slime"
+			]
+		],
+		[
+			[
+				"bat",
+				"bat",
+				"slime",
+				"bat",
+				"slime",
+				"bat"
+			],
+			[
+				"slime",
+				"pod",
+				"slime"
+			]
+		],
+		[
+			[
+				"bat",
+				"bat",
+				"slime",
+				"slime",
+				"archer"
+			],
+			[
+				"slime",
+				"slime",
+				"bat",
+				"slime"
+			]
+		],
+		[
+			[
+				"bat",
+				"pod",
+				"slime",
+				"slime"
+			],
+			[
+				"slime",
+				"pod",
+				"bat"
+			]
+		],
+		[
+			[
+				"bat",
+				"archer",
+				"slime",
+				"slime"
+			],
+			[
+				"archer",
+				"bat",
+				"slime"
+			]
+		],
+		[
+			[
+				"slime",
+				"slime",
+				"bat",
+				"bat",
+				"bat"
+			],
+			[
+				"archer",
+				"archer"
+			]
+		],
+		[
+			[
+				"archer",
+				"slime",
+				"slime",
+				"bat"
+			],
+			[
+				"wisp",
+				"slime"
+			]
+		],
+		[
+			[
+				"archer",
+				"bat",
+				"slime",
+				"bat"
+			],
+			[
+				"bat",
+				"wisp"
+			]
+		],
+		[
+			[
+				"wisp",
+				"slime",
+				"slime"
+			],
+			[
+				"slime",
+				"archer",
+				"slime"
+			]
+		],
+		[
+			[
+				"bat",
+				"slime",
+				"slime",
+				"slime",
+				"slime"
+			],
+			[
+				"archer",
+				"pod"
+			]
+		],
+		[
+			[
+				"slime",
+				"slime",
+				"wisp"
+			],
+			[
+				"bat",
+				"pod",
+				"slime"
+			]
+		],
+		[
+			[
+				"slime",
+				"slime",
+				"bat",
+				"pod",
+				"slime"
+			],
+			[
+				"slime",
+				"pod",
+				"slime"
+			]
+		],
+		[
+			[
+				"bat",
+				"slime",
+				"archer",
+				"slime",
+				"slime"
+			],
+			[
+				"archer",
+				"slime",
+				"slime"
+			]
+		],
+		[
+			[
+				"bat",
+				"archer",
+				"slime",
+				"bat",
+				"slime"
+			],
+			[
+				"slime",
+				"slime",
+				"bat",
+				"slime"
+			]
+		],
+		[
+			[
+				"slime",
+				"bat",
+				"slime",
+				"archer",
+				"slime"
+			],
+			[
+				"pod",
+				"archer"
+			]
+		],
+		[
+			[
+				"bat",
+				"archer",
+				"bat",
+				"pod",
+				"slime"
+			],
+			[
+				"archer",
+				"bat",
+				"slime"
+			]
+		],
+		[
+			[
+				"slime",
+				"bat",
+				"slime",
+				"pod",
+				"archer"
+			],
+			[
+				"archer",
+				"bat",
+				"slime"
+			]
+		],
+		[
+			[
+				"archer",
+				"slime",
+				"slime",
+				"archer",
+				"bat"
+			],
+			[
+				"wisp",
+				"slime"
+			]
+		],
+		[
+			[
+				"bat",
+				"pod",
+				"archer",
+				"bat",
+				"bat"
+			],
+			[
+				"archer",
+				"slime",
+				"slime"
+			]
+		],
+		[
+			[
+				"pod",
+				"bat",
+				"bat",
+				"bat",
+				"slime",
+				"slime"
+			],
+			[
+				"wisp",
+				"archer"
+			]
+		],
+		[
+			[
+				"slime",
+				"slime",
+				"bat",
+				"archer",
+				"slime",
+				"bat"
+			],
+			[
+				"wisp",
+				"archer"
+			]
+		],
+		[
+			[
+				"pod",
+				"bat",
+				"archer",
+				"pod"
+			],
+			[
+				"slime",
+				"bat",
+				"bat",
+				"slime",
+				"slime"
+			]
+		],
+		[
+			[
+				"archer",
+				"slime",
+				"bat",
+				"slime",
+				"pod"
+			],
+			[
+				"wisp",
+				"bat",
+				"slime"
+			]
+		],
+		[
+			[
+				"knight",
+				"bat",
+				"bat",
+				"bat"
+			],
+			[
+				"slime",
+				"knight"
+			]
+		],
+		[
+			[
+				"archer",
+				"wisp",
+				"archer"
+			],
+			[
+				"bat",
+				"bat",
+				"wisp"
+			]
+		],
+		[
+			[
+				"knight",
+				"wisp"
+			],
+			[
+				"wisp",
+				"archer"
+			]
+		],
+		[
+			[
+				"pod",
+				"archer",
+				"archer",
+				"slime"
+			],
+			[
+				"knight",
+				"slime"
+			]
+		],
+		[
+			[
+				"pod",
+				"bat",
+				"pod",
+				"archer"
+			],
+			[
+				"wisp",
+				"pod"
+			]
+		],
+		[
+			[
+				"wisp",
+				"bat",
+				"archer",
+				"slime"
+			],
+			[
+				"archer",
+				"archer",
+				"slime"
+			]
+		],
+		[
+			[
+				"bat",
+				"bat",
+				"knight",
+				"slime"
+			],
+			[
+				"wisp",
+				"archer"
+			]
+		],
+		[
+			[
+				"slime",
+				"archer",
+				"archer",
+				"pod"
+			],
+			[
+				"archer",
+				"archer",
+				"slime"
+			]
+		],
+		[
+			[
+				"archer",
+				"bat",
+				"pod",
+				"wisp"
+			],
+			[
+				"bat",
+				"pod",
+				"slime",
+				"slime"
+			]
+		],
+		[
+			[
+				"slime",
+				"wisp",
+				"archer",
+				"archer"
+			],
+			[
+				"wisp",
+				"slime",
+				"slime"
+			]
+		],
+		[
+			[
+				"slime",
+				"bat",
+				"archer",
+				"pod",
+				"archer"
+			],
+			[
+				"pod",
+				"slime",
+				"archer"
+			]
+		],
+		[
+			[
+				"knight",
+				"slime",
+				"bat",
+				"bat",
+				"bat"
+			],
+			[
+				"knight",
+				"slime"
+			]
+		],
+		[
+			[
+				"archer",
+				"archer",
+				"archer",
+				"archer"
+			],
+			[
+				"bat",
+				"bat",
+				"slime",
+				"bat",
+				"archer"
+			]
+		],
+		[
+			[
+				"slime",
+				"archer",
+				"slime",
+				"wisp",
+				"slime"
+			],
+			[
+				"slime",
+				"wisp",
+				"archer"
+			]
+		],
+		[
+			[
+				"bat",
+				"archer",
+				"archer",
+				"wisp"
+			],
+			[
+				"pod",
+				"archer",
+				"bat",
+				"slime"
+			]
+		],
+		[
+			[
+				"wisp",
+				"slime",
+				"slime",
+				"bat",
+				"slime",
+				"slime"
+			],
+			[
+				"archer",
+				"bat",
+				"pod",
+				"slime"
+			]
+		],
+		[
+			[
+				"bat",
+				"bat",
+				"knight",
+				"pod",
+				"slime"
+			],
+			[
+				"archer",
+				"bat",
+				"bat",
+				"archer"
+			]
+		],
+		[
+			[
+				"bat",
+				"archer",
+				"archer",
+				"archer",
+				"bat",
+				"slime"
+			],
+			[
+				"pod",
+				"bat",
+				"archer",
+				"slime"
+			]
+		],
+		[
+			[
+				"wisp",
+				"knight",
+				"pod"
+			],
+			[
+				"wisp",
+				"wisp"
+			]
+		],
+		[
+			[
+				"slime",
+				"bat",
+				"archer",
+				"bat",
+				"archer",
+				"bat",
+				"slime"
+			],
+			[
+				"archer",
+				"bat",
+				"slime",
+				"pod"
+			]
+		],
+		[
+			[
+				"bat",
+				"wisp",
+				"archer",
+				"wisp"
+			],
+			[
+				"wisp",
+				"slime",
+				"bat",
+				"slime"
+			]
+		],
+		[
+			[
+				"slime",
+				"slime",
+				"slime",
+				"pod",
+				"bat",
+				"wisp"
+			],
+			[
+				"wisp",
+				"wisp"
+			]
+		],
+		[
+			[
+				"wisp",
+				"pod",
+				"slime",
+				"slime",
+				"pod"
+			],
+			[
+				"bat",
+				"archer",
+				"wisp"
+			]
+		],
+		[
+			[
+				"slime",
+				"archer",
+				"pod",
+				"archer",
+				"slime",
+				"bat"
+			],
+			[
+				"archer",
+				"bat",
+				"pod",
+				"slime"
+			]
+		],
+		[
+			[
+				"bat",
+				"bat",
+				"archer",
+				"archer",
+				"archer",
+				"slime"
+			],
+			[
+				"knight",
+				"archer"
+			]
+		],
+		[
+			[
+				"pod",
+				"knight",
+				"pod",
+				"slime"
+			],
+			[
+				"pod",
+				"slime",
+				"slime",
+				"archer"
+			]
+		],
+		[
+			[
+				"archer",
+				"wisp",
+				"knight"
+			],
+			[
+				"archer",
+				"slime",
+				"slime",
+				"pod"
+			]
+		],
+		[
+			[
+				"bat",
+				"slime",
+				"wisp",
+				"pod",
+				"bat",
+				"slime"
+			],
+			[
+				"knight",
+				"archer"
+			]
+		],
+		[
+			[
+				"archer",
+				"archer",
+				"archer",
+				"bat",
+				"archer"
+			],
+			[
+				"bat",
+				"archer",
+				"wisp",
+				"slime"
+			]
+		],
+		[
+			[
+				"wisp",
+				"archer",
+				"knight"
+			],
+			[
+				"wisp",
+				"knight"
+			]
+		],
+		[
+			[
+				"archer",
+				"slime",
+				"bat",
+				"knight",
+				"bat"
+			],
+			[
+				"pod",
+				"archer",
+				"bat",
+				"bat",
+				"bat"
+			]
+		],
+		[
+			[
+				"wisp",
+				"pod",
+				"wisp",
+				"slime"
+			],
+			[
+				"wisp",
+				"archer",
+				"slime",
+				"slime"
+			]
+		],
+		[
+			[
+				"slime",
+				"knight",
+				"knight",
+				"slime"
+			],
+			[
+				"wisp",
+				"wisp",
+				"slime"
+			]
+		],
+		[
+			[
+				"archer",
+				"knight",
+				"bat",
+				"bat",
+				"pod"
+			],
+			[
+				"archer",
+				"slime",
+				"slime",
+				"archer",
+				"slime"
+			]
+		],
+		[
+			[
+				"wisp",
+				"knight",
+				"wisp"
+			],
+			[
+				"slime",
+				"pod",
+				"archer",
+				"bat",
+				"slime"
+			]
+		],
+		[
+			[
+				"wisp",
+				"wisp",
+				"slime",
+				"wisp"
+			],
+			[
+				"wisp",
+				"wisp",
+				"slime"
+			]
+		],
+		[
+			[
+				"pod",
+				"archer",
+				"pod",
+				"pod",
+				"pod"
+			],
+			[
+				"bat",
+				"bat",
+				"archer",
+				"archer",
+				"bat",
+				"bat"
+			]
+		],
+		[
+			[
+				"archer",
+				"wisp",
+				"pod",
+				"wisp"
+			],
+			[
+				"archer",
+				"archer",
+				"wisp",
+				"slime"
+			]
+		],
+		[
+			[
+				"bat",
+				"bat",
+				"archer",
+				"pod",
+				"knight"
+			],
+			[
+				"bat",
+				"slime",
+				"slime",
+				"knight",
+				"slime"
+			]
+		],
+		[
+			[
+				"archer",
+				"slime",
+				"slime",
+				"slime",
+				"archer",
+				"wisp"
+			],
+			[
+				"archer",
+				"wisp",
+				"slime",
+				"bat",
+				"slime"
+			]
+		],
+		[
+			[
+				"archer",
+				"wisp",
+				"archer",
+				"wisp"
+			],
+			[
+				"knight",
+				"knight"
+			]
+		],
+		[
+			[
+				"bat",
+				"archer",
+				"archer",
+				"archer",
+				"bat",
+				"bat",
+				"bat"
+			],
+			[
+				"knight",
+				"knight"
+			]
+		],
+		[
+			[
+				"bat",
+				"archer",
+				"archer",
+				"archer",
+				"archer",
+				"bat"
+			],
+			[
+				"knight",
+				"knight"
+			]
+		],
+		[
+			[
+				"wisp",
+				"knight",
+				"archer",
+				"bat"
+			],
+			[
+				"wisp",
+				"wisp",
+				"bat",
+				"bat"
+			]
+		],
+		[
+			[
+				"wisp",
+				"archer",
+				"archer",
+				"wisp"
+			],
+			[
+				"wisp",
+				"archer",
+				"wisp"
+			]
+		],
+		[
+			[
+				"archer",
+				"wisp",
+				"knight",
+				"bat"
+			],
+			[
+				"wisp",
+				"bat",
+				"bat",
+				"archer",
+				"bat"
+			]
+		],
+		[
+			[
+				"bat",
+				"archer",
+				"archer",
+				"bat",
+				"wisp",
+				"bat"
+			],
+			[
+				"wisp",
+				"wisp",
+				"archer"
+			]
+		],
+		[
+			[
+				"wisp",
+				"knight",
+				"wisp"
+			],
+			[
+				"knight",
+				"knight"
+			]
+		],
+		[
+			[
+				"knight",
+				"archer",
+				"wisp",
+				"bat",
+				"bat"
+			],
+			[
+				"wisp",
+				"knight",
+				"bat"
+			]
+		],
+		[
+			[
+				"wisp",
+				"bat",
+				"knight",
+				"wisp"
+			],
+			[
+				"archer",
+				"wisp",
+				"bat",
+				"bat",
+				"bat"
+			]
+		],
+		[
+			[
+				"bat",
+				"archer",
+				"knight",
+				"archer",
+				"archer"
+			],
+			[
+				"wisp",
+				"archer",
+				"archer",
+				"bat"
+			]
+		],
+		[
+			[
+				"archer",
+				"wisp",
+				"wisp",
+				"wisp"
+			],
+			[
+				"knight",
+				"bat",
+				"bat",
+				"archer"
+			]
+		],
+		[
+			[
+				"archer",
+				"archer",
+				"bat",
+				"wisp",
+				"wisp"
+			],
+			[
+				"bat",
+				"archer",
+				"knight",
+				"bat",
+				"bat"
+			]
+		],
+		[
+			[
+				"knight",
+				"knight",
+				"archer",
+				"bat"
+			],
+			[
+				"wisp",
+				"knight",
+				"archer"
+			]
+		],
+		[
+			[
+				"knight",
+				"wisp",
+				"wisp",
+				"bat"
+			],
+			[
+				"bat",
+				"bat",
+				"wisp",
+				"wisp",
+				"bat"
+			]
+		],
+		[
+			[
+				"archer",
+				"knight",
+				"bat",
+				"archer",
+				"archer"
+			],
+			[
+				"wisp",
+				"knight",
+				"bat",
+				"bat"
+			]
+		],
+		[
+			[
+				"archer",
+				"wisp",
+				"bat",
+				"knight",
+				"bat",
+				"bat"
+			],
+			[
+				"knight",
+				"bat",
+				"knight"
+			]
+		],
+		[
+			[
+				"knight",
+				"archer",
+				"archer",
+				"knight"
+			],
+			[
+				"wisp",
+				"bat",
+				"bat",
+				"knight"
+			]
+		],
+		[
+			[
+				"archer",
+				"wisp",
+				"knight",
+				"wisp"
+			],
+			[
+				"archer",
+				"bat",
+				"bat",
+				"archer",
+				"wisp"
+			]
+		],
+		[
+			[
+				"knight",
+				"archer",
+				"knight",
+				"archer"
+			],
+			[
+				"bat",
+				"wisp",
+				"archer",
+				"archer",
+				"bat"
+			]
+		]
+	],
+	"wrap": [
+		[
+			"呼……你这灯油漏得比筛子还快，先坐下烤烤火。",
+			6,
+			"呼……你这灯\n油漏得比筛子\n还快，先坐下\n烤烤火。"
+		],
+		[
+			"呼……你这灯油漏得比筛子还快，先坐下烤烤火。",
+			13,
+			"呼……你这灯油漏得比筛子还\n快，先坐下烤烤火。"
+		],
+		[
+			"呼……你这灯油漏得比筛子还快，先坐下烤烤火。",
+			20,
+			"呼……你这灯油漏得比筛子还快，先坐下烤烤\n火。"
+		],
+		[
+			"abc def ghi jkl mno pqr stu vwx yz 0123456789",
+			6,
+			"abc def ghi \njkl mno pqr \nstu vwx yz 0\n123456789"
+		],
+		[
+			"abc def ghi jkl mno pqr stu vwx yz 0123456789",
+			13,
+			"abc def ghi jkl mno pqr st\nu vwx yz 0123456789"
+		],
+		[
+			"abc def ghi jkl mno pqr stu vwx yz 0123456789",
+			20,
+			"abc def ghi jkl mno pqr stu vwx yz 01234\n56789"
+		],
+		[
+			"一根头发都没烧焦？我开始怀疑你偷偷练过了。",
+			6,
+			"一根头发都没\n烧焦？我开始\n怀疑你偷偷练\n过了。"
+		],
+		[
+			"一根头发都没烧焦？我开始怀疑你偷偷练过了。",
+			13,
+			"一根头发都没烧焦？我开始怀\n疑你偷偷练过了。"
+		],
+		[
+			"一根头发都没烧焦？我开始怀疑你偷偷练过了。",
+			20,
+			"一根头发都没烧焦？我开始怀疑你偷偷练过了。"
+		],
+		[
+			"短",
+			6,
+			"短"
+		],
+		[
+			"短",
+			13,
+			"短"
+		],
+		[
+			"短",
+			20,
+			"短"
+		],
+		[
+			"记住：骨弓手的红线一锁定，就往旁边冲刺。真的，别愣着！",
+			6,
+			"记住：骨弓手\n的红线一锁定，\n就往旁边冲刺。\n真的，别愣着！"
+		],
+		[
+			"记住：骨弓手的红线一锁定，就往旁边冲刺。真的，别愣着！",
+			13,
+			"记住：骨弓手的红线一锁定，\n就往旁边冲刺。真的，别愣着！"
+		],
+		[
+			"记住：骨弓手的红线一锁定，就往旁边冲刺。真的，别愣着！",
+			20,
+			"记住：骨弓手的红线一锁定，就往旁边冲刺。\n真的，别愣着！"
+		]
+	]
+}
